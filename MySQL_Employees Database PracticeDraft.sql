@@ -1,5 +1,8 @@
 -- Explore employees database through MySQL Workbench, started this as a complete beginner. Totally raw original codes with personal notes and multiple fail attempts. 
 -- Try-Fail-Success :)
+-- Use advanced MySQL toward the end including joins, unions, stored procedure, user-defined functions, variables, triggers
+-- Data Visualize using Tableau toward the super end 
+
 
 SELECT * FROM employees.employees
 WHERE first_name LIKE ("Mark%");
