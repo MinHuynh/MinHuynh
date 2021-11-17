@@ -1,4 +1,5 @@
--- Explore employees database through MySQL Workbench, started this as a complete beginner. Totally raw original codes with personal notes and multiple fail attempts. Try-Fail-Success :)
+-- Explore employees database through MySQL Workbench, started this as a complete beginner. Totally raw original codes with personal notes and multiple fail attempts. 
+-- Try-Fail-Success :)
 
 SELECT * FROM employees.employees
 WHERE first_name LIKE ("Mark%");
