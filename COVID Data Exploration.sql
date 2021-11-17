@@ -1,3 +1,7 @@
+-- Explore real-life COVID database: https://ourworldindata.org/covid-deaths. 
+-- Data visualization through Tableau: https://public.tableau.com/app/profile/minh.huynh7801/viz/COVIDDataVisualization_16371118603130/Dashboard1 
+-- TRY - FAIL - SUCCESS :)
+
 -- Covid Deaths
 SELECT TOP 10 * 
 FROM PortfolioProject..CovidDeaths
