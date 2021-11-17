@@ -1,7 +1,7 @@
 -- Explore employees database through MySQL Workbench, started this as a complete beginner. Totally raw original codes with personal notes and multiple fail attempts. 
 -- Try-Fail-Success :)
 -- Use advanced MySQL toward the end including joins, unions, stored procedure, user-defined functions, variables, triggers
--- Data Visualize using Tableau toward the super end 
+-- Data Visualize using Tableau toward the super end. Link to Tableau Dashboard https://public.tableau.com/app/profile/minh.huynh7801/viz/MySQl_Tableau/Dashboard1
 
 
 SELECT * FROM employees.employees
